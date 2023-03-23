@@ -9,7 +9,13 @@ import tr from '@/locales/tr';
 
 function Header() {
   const { systemTheme, theme, setTheme } = useTheme();
+  useEffect(() => {
+    if (theme === 'system') {
+      setTheme('light');
+    }
+  }, [systemTheme]);
   const currentTheme = theme === 'system' ? systemTheme : theme;
+  console.log(currentTheme);
 
   // locale
   const router = useRouter();
@@ -21,20 +27,6 @@ function Header() {
     router.push(router.pathname, router.asPath, { locale });
   };
 
-  useEffect(() => {
-    const keyDownHandler = (e) => {
-      console.log(e);
-      if (e.key === 'd') {
-        setTheme('light');
-      } else if (e.key === 'l') {
-        setTheme('dark');
-      }
-    };
-    document.addEventListener('keydown', keyDownHandler);
-    return () => {
-      document.removeEventListener('keydown', keyDownHandler);
-    };
-  }, []);
   return (
     <header className="site-container">
       <nav className="flex justify-between">

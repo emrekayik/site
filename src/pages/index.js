@@ -25,8 +25,8 @@ export default function Home() {
       </Head>
       <main className="site-container">
         <h1 className="text-4xl font-bold">Emre Kayık</h1>
-        <p className="text-lg font-mono mt-2">{t.job}</p>
-        <p className="mt-2">{t.about}</p>
+        <p className="text-lg font-mono mt-2">{t.aboutme.job}</p>
+        <p className="mt-2">{t.aboutme.about}</p>
       </main>
     </>
   );
