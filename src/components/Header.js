@@ -15,7 +15,6 @@ function Header() {
     }
   }, [systemTheme]);
   const currentTheme = theme === 'system' ? systemTheme : theme;
-  console.log(currentTheme);
 
   // locale
   const router = useRouter();
@@ -64,7 +63,7 @@ function Header() {
               },
             }}
           >
-            {theme === 'dark' ? (
+            {currentTheme === 'dark' ? (
               <i className="gg-sun transition-all duration-300 ease-in-out"></i>
             ) : (
               <i className="gg-moon transition-all duration-300 ease-in-out"></i>

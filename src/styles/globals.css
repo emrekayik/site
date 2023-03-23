@@ -7,12 +7,15 @@
 
 @layer components {
   .site-container {
-    @apply max-w-3xl mx-auto px-4 py-8 sm:px-6 lg:px-8;
+    @apply max-w-3xl mx-auto px-4 py-8 sm:px-6 lg:px-8 dark:text-white;
   }
 }
 @layer base{
   body {
-    @apply dark:bg-gray-800 bg-white;
+    @apply dark:bg-gray-800 bg-white dark:text-white;
     font-family: 'Lato', sans-serif;
   }
 }
+
+/* Icons from css.gg */
+

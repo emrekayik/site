@@ -9,11 +9,6 @@ import { AnimatePresence, motion } from 'framer-motion';
 export default function App({ Component, pageProps }) {
   const router = useRouter();
 
-  const pageAnimation = {
-    initial: { opacity: 0, y: '100%' },
-    animate: { opacity: 1, y: 0 },
-    exit: { opacity: 0, y: '100%' },
-  };
   return (
     <ThemeProvider attribute="class">
       <AnimatePresence mode="wait" initial={false}>
@@ -30,12 +25,15 @@ export default function App({ Component, pageProps }) {
             variants={{
               initialState: {
                 opacity: 0,
+                y: 100,
               },
               animateState: {
                 opacity: 1,
+                y: 0,
               },
               exitState: {
                 opacity: 0,
+                y: -100,
               },
             }}
             className="mb-20"

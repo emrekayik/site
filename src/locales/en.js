@@ -16,7 +16,21 @@ export default {
     title: 'Blog',
   },
 
+  // Contact
+  contact: {
+    title: 'Contact',
+    form: {
+      name: 'Name',
+      email: 'Email',
+      message: 'Message',
+      submit: 'Submit'
+    }
+  },
+
   // Footer
   footer: 'Made with ♥. ',
   footerGithub: 'See the source code on Github',
+
+  // 404
+  error: "Page not found"
 };
