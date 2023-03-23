@@ -6,6 +6,7 @@ export default function Document() {
   return (
     <Html lang="tr-TR">
       <Head>
+        <meta name="google-site-verification" content="gsAzII9ttXYe5b-hlxxpoD96wedsePNDTiMI0Y_WVGU" />
         <Script async src="https://www.googletagmanager.com/gtag/js?id=G-2NBEJLXNHX"></Script>
         <Script>
           {`
