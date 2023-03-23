@@ -3,12 +3,27 @@ import { motion } from 'framer-motion';
 import { useRouter } from "next/router";
 import en from "@/locales/en";
 import tr from "@/locales/tr";
+
+import posts from "@/locales/posts";
+
 function BlogPage() {
   // locale
   const router = useRouter();
   const { locale } = router;
   const t = locale === 'en' ? en : tr;
 
+  const ListPosts = () => {
+    return (
+      <>
+        {posts.map((post) => (
+          <div key={post.id} className="flex flex-col">
+            <h2 className="text-2xl font-bold">{post.title[locale]}</h2>
+            <p className="mt-2">{post.content[locale]}</p>
+          </div>
+        ))}
+      </>
+    );
+  }
   return (
     <>
       <Head>
@@ -16,6 +31,7 @@ function BlogPage() {
       </Head>
       <div className="site-container">
         <h1 className="text-4xl font-bold">{t.blog.title}</h1>
+        <ListPosts />
       </div>
     </>
   );

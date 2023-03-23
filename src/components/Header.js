@@ -28,30 +28,34 @@ function Header() {
 
   return (
     <header className="site-container">
-      <nav className="flex justify-between">
+      <nav className="flex justify-between items-center">
         <div className="space-x-4">
           <Link href="/">{t.nav.about}</Link>
           <Link href="/blog">{t.nav.blog}</Link>
           <Link href="/contact-me">{t.nav.contact}</Link>
         </div>
-        <div className="flex space-x-4 items-center">
+        <div className="flex space-x-4">
           <select
             name={locale}
             id={locale}
             defaultValue={defaultLocale}
             onChange={changeLang}
-            className="bg-transparent"
+            className="bg-transparent dark:bg-gray-800 text-gray-700 dark:text-gray-300 font-semibold py-2 px-2 border border-gray-300 dark:border-gray-700 rounded shadow"
           >
             {locales.map((locale) => (
-              <option key={locale} value={locale}>
+              <option
+                key={locale}
+                value={locale}
+                className="bg-transparent dark:bg-gray-800 text-gray-700 dark:text-gray-300 font-semibold py-2 px-2 border border-gray-300 dark:border-gray-700 shadow"
+              >
                 {locale}
               </option>
             ))}
           </select>
           <motion.div
-            className={`theme-toggle ${
+            className={`${
               theme === 'dark' ? 'dark' : 'light'
-            } cursor-pointer`}
+            } cursor-pointer flex items-center justify-center`}
             onClick={() => {
               theme === 'dark' ? setTheme('light') : setTheme('dark');
             }}
