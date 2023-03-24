@@ -16,7 +16,7 @@ function Footer() {
           {t.footer}
           <Link
             href="https://github.com/site"
-            className={'text-blue-500 hover:text-blue-600 underline ml-2'}
+            className='text-blue-500 hover:text-blue-600 underline ml-2'
           >
             {t.footerGithub}
           </Link>
