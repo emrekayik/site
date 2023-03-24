@@ -33,6 +33,6 @@ export default [
       "tr": "Go dilinde değişkenleri tanımlamanın birden çok yolu vardır. Bunlardan biri, veri tipini açıkça belirtmeden hızlıca değişken tanımlamak için \":=\" operatörünü kullanmaktır.",
       "en": "There are multiple ways to define variables in Go. One of the shortcuts is to use the \":=\" operator to define variables quickly without specifying the data type explicitly."
     },
-    "link": "https://medium.com/@emrekayik/javascriptte-zaman-kazanmak-icin-20-kisaltma-3f5fa5d79d7e"
+    "link": "https://medium.com/@emrekayik/go-dilinde-k%C4%B1sa-de%C4%9Fi%C5%9Fken-tan%C4%B1mlama-avantajlar%C4%B1-dezavantajlar%C4%B1-c46416d4c0f1"
   },
 ]
