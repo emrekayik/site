@@ -18,7 +18,7 @@ export default {
 
   // Contact
   contact: {
-    title: 'Contact',
+    title: 'Contact Me',
     email: 'emrekayik1905@gmail.com'
   },
 
