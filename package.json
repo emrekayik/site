@@ -1,6 +1,15 @@
 {
-  "name": "emrekayik.github.io",
-  "version": "0.1.0",
+  "name": "emrekayik.vercel.app",
+  "author": {
+    "email": "emrekayik1905@gmail.com",
+    "name": "Emre Kayık",
+    "url": "https://emrekayik.vercel.app"
+  },
+  "description": "Emre Kayık personal website",
+  "repository": {
+  "url": "https://github.com/emrekayik/site",
+  },
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
