@@ -36,7 +36,6 @@ export default function App({ Component, pageProps }) {
                 y: -100,
               },
             }}
-            className="mb-20"
           >
             <Component {...pageProps} />
           </motion.div>

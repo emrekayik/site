@@ -19,12 +19,7 @@ export default {
   // Contact
   contact: {
     title: 'Contact',
-    form: {
-      name: 'Name',
-      email: 'Email',
-      message: 'Message',
-      submit: 'Submit'
-    }
+    email: 'emrekayik1905@gmail.com'
   },
 
   // Footer

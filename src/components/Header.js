@@ -35,7 +35,13 @@ function Header() {
           <Link href="/contact-me">{t.nav.contact}</Link>
         </div>
         <div className="flex space-x-4">
-          <select
+          <motion.select
+            whileHover={{
+              scale: [1, 1.2],
+              transition: {
+                duration: 0.2,
+              },
+            }}
             name={locale}
             id={locale}
             defaultValue={defaultLocale}
@@ -51,7 +57,7 @@ function Header() {
                 {locale}
               </option>
             ))}
-          </select>
+          </motion.select>
           <motion.div
             className={`${
               theme === 'dark' ? 'dark' : 'light'

@@ -12,8 +12,17 @@
 }
 @layer base{
   body {
-    @apply dark:bg-gray-800 bg-white dark:text-white;
+    @apply dark:bg-gray-800 bg-white dark:text-white scroll-smooth;
     font-family: 'Lato', sans-serif;
+  }
+  body::-webkit-scrollbar {
+    @apply w-1;
+  }
+  body::-webkit-scrollbar-track {
+      @apply bg-gray-200 rounded-3xl;
+  }
+  body::-webkit-scrollbar-thumb {
+      @apply bg-gray-700 rounded-3xl;
   }
 }
 

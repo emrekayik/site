@@ -19,12 +19,7 @@ export default {
   // Contact
   contact: {
     title: 'İletişim',
-    form: {
-      name: 'Adınız',
-      email: 'E-posta adresiniz',
-      message: 'Mesajınız',
-      submit: 'Gönder'
-    }
+    email: 'emrekayik1905@gmail.com'
   },
 
   // Footer
