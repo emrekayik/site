@@ -15,6 +15,9 @@
     @apply dark:bg-gray-800 bg-white dark:text-white scroll-smooth;
     font-family: 'Lato', sans-serif;
   }
+  ::selection {
+    @apply bg-gray-800 text-white dark:bg-white dark:text-gray-800;
+  }
   body::-webkit-scrollbar {
     @apply w-1;
   }
