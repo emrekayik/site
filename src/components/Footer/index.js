@@ -15,7 +15,7 @@ function Footer() {
         <div className="flex text-lg sm:text-sm">
           {t.footer}
           <Link
-            href="https://github.com/site"
+            href="https://github.com/emrekayik/site"
             className='text-blue-500 hover:text-blue-600 underline ml-2'
           >
             {t.footerGithub}
