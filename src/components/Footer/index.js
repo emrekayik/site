@@ -12,11 +12,11 @@ function Footer() {
   return (
     <footer className="site-container justify-center">
       <div className="flex items-center">
-        <div className="flex text-lg sm:text-sm">
+        <div className="flex text-sm sm:text-lg">
           {t.footer}
           <Link
             href="https://github.com/emrekayik/site"
-            className='text-blue-500 hover:text-blue-600 underline ml-2'
+            className='text-blue-500 text-sm sm:text-lg hover:text-blue-600 underline ml-2'
           >
             {t.footerGithub}
           </Link>
