@@ -7,5 +7,3 @@ Host: https://emrekayik.vercel.app
 
 # Sitemaps
 Sitemap: https://emrekayik.vercel.app/sitemap.xml
-Sitemap: https://emrekayik.vercel.app/blog
-Sitemap: https://emrekayik.vercel.app/contact-me

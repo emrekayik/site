@@ -9,6 +9,5 @@ module.exports = {
         allow: '/',
       },
     ],
-    additionalSitemaps: [siteUrl + '/blog', siteUrl + '/contact-me'],
   },
 };
