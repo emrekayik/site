@@ -56,12 +56,12 @@ export default function App({ Component, pageProps }) {
               }}
             >
               <Component {...pageProps} />
+              <Analytics />
             </motion.div>
             <Footer />
           </div>
         </AnimatePresence>
       </ThemeProvider>
-      <Analytics />
     </>
   );
 }
