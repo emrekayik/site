@@ -4,6 +4,7 @@ export default {
     about: 'Hakkımda',
     blog: 'Yazılarım',
     contact: 'İletişim',
+    bookmarks: 'Yer İmlerim',
   },
   // AboutMe
   aboutme: {
@@ -16,10 +17,9 @@ export default {
     title: 'Yazılarım',
   },
 
-  // Contact
-  contact: {
-    title: 'İletişim',
-    email: 'emrekayik1905@gmail.com'
+  // Bookmark
+  bookmark: {
+    title: 'Yer İmlerim',
   },
 
   // Footer
@@ -27,5 +27,5 @@ export default {
   footerGithub: 'Kaynak kodunu Github üzerinden görüntüle ',
 
   // 404
-  error: "Sayfa bulunamadı"
+  error: 'Sayfa bulunamadı',
 };

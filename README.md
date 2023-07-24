@@ -2,11 +2,12 @@
 
 ## Nasıl çalıştırılır
 
-Sonucu görmek için [http://localhost:3000](http://localhost:3000) adresini tarayıcınızla açın.
----
+## Sonucu görmek için [http://localhost:3000](http://localhost:3000) adresini tarayıcınızla açın.
+
 # My Personal Website
 
 ## How to run
+
 ```bash
 npm run dev
 # or

@@ -10,7 +10,7 @@
     @apply max-w-3xl mx-auto px-4 py-8 sm:px-6 lg:px-8 dark:text-white;
   }
 }
-@layer base{
+@layer base {
   body {
     @apply dark:bg-gray-800 bg-white dark:text-white scroll-smooth;
     font-family: 'Lato', sans-serif;
@@ -22,12 +22,11 @@
     @apply w-1;
   }
   body::-webkit-scrollbar-track {
-      @apply bg-gray-200 rounded-3xl;
+    @apply bg-gray-200 rounded-3xl;
   }
   body::-webkit-scrollbar-thumb {
-      @apply bg-gray-700 rounded-3xl;
+    @apply bg-gray-700 rounded-3xl;
   }
 }
 
 /* Icons from css.gg */
-

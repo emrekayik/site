@@ -1,8 +1,8 @@
-import { motion } from "framer-motion";
-import { useTheme } from "next-themes";
-import { useEffect } from "react";
+import { motion } from 'framer-motion';
+import { useTheme } from 'next-themes';
+import { useEffect } from 'react';
 
-function DarkModeTogle(){
+function DarkModeTogle() {
   const { systemTheme, theme, setTheme } = useTheme();
   useEffect(() => {
     if (theme === 'system') {
@@ -11,7 +11,7 @@ function DarkModeTogle(){
   }, [systemTheme]);
   const currentTheme = theme === 'system' ? systemTheme : theme;
 
-  return(
+  return (
     <motion.div
       className={`${
         theme === 'dark' ? 'dark' : 'light'
@@ -33,6 +33,6 @@ function DarkModeTogle(){
         <i className="gg-moon transition-all duration-300 ease-in-out"></i>
       )}
     </motion.div>
-  )
+  );
 }
 export default DarkModeTogle;

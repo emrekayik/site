@@ -4,11 +4,12 @@ export default {
     about: 'About Me',
     blog: 'Blog',
     contact: 'Contact',
+    bookmarks: 'Bookmarks',
   },
   // AboutMe
   aboutme: {
-  job: 'Developer || Designer',
-  about: 'Hello I am Emre, this is my personal web site.',
+    job: 'Developer || Designer',
+    about: 'Hello I am Emre, this is my personal web site.',
   },
 
   // Blog
@@ -16,10 +17,10 @@ export default {
     title: 'Blog',
   },
 
-  // Contact
-  contact: {
-    title: 'Contact Me',
-    email: 'emrekayik1905@gmail.com'
+  // Bookmark
+  bookmark: {
+    title: 'Bookmarks',
+    desc: 'bookmarks tags are Turkish',
   },
 
   // Footer
@@ -27,5 +28,5 @@ export default {
   footerGithub: 'See the source code on Github',
 
   // 404
-  error: "Page not found"
+  error: 'Page not found',
 };

@@ -1,0 +1,2068 @@
+[
+  {
+    "index": 0,
+    "title": "The React Cheatsheet for 2022",
+    "url": "https://www.freecodecamp.org/news/the-react-cheatsheet/",
+    "id": 233,
+    "parentId": "1",
+    "dateAddedLocal": "11.04.2022 19:57:02",
+    "dateAddedUTC": "2022-04-11T16:57:02.552Z"
+  },
+  {
+    "index": 1,
+    "title": "Use forms to get data from users",
+    "url": "https://web.dev/learn/forms/form-element/",
+    "id": 234,
+    "parentId": "1",
+    "dateAddedLocal": "11.04.2022 19:58:17",
+    "dateAddedUTC": "2022-04-11T16:58:17.556Z"
+  },
+  {
+    "index": 2,
+    "title": "Calendars - Experimentals - Spectre.css CSS Framework",
+    "url": "https://picturepan2.github.io/spectre/experimentals/calendars.html",
+    "id": 235,
+    "parentId": "1",
+    "dateAddedLocal": "12.04.2022 02:41:35",
+    "dateAddedUTC": "2022-04-11T23:41:35.602Z"
+  },
+  {
+    "index": 3,
+    "title": "Discover, Create, and Publish your research paper | SciSpace by Typeset",
+    "url": "https://typeset.io/",
+    "id": 236,
+    "parentId": "1",
+    "dateAddedLocal": "01.01.2023 21:28:12",
+    "dateAddedUTC": "2023-01-01T18:28:12.394Z"
+  },
+  {
+    "index": 4,
+    "title": "Holobooth",
+    "url": "https://holobooth.flutter.dev/#/",
+    "id": 262,
+    "parentId": "1",
+    "dateAddedLocal": "08.02.2023 20:03:35",
+    "dateAddedUTC": "2023-02-08T17:03:35.990Z"
+  },
+  {
+    "index": 5,
+    "title": "slama.dev – Manim – Introduction",
+    "url": "https://slama.dev/manim/introduction/",
+    "id": 268,
+    "parentId": "1",
+    "dateAddedLocal": "18.02.2023 02:01:01",
+    "dateAddedUTC": "2023-02-17T23:01:01.217Z"
+  },
+  {
+    "index": 6,
+    "title": "Fikri Öztürk 'ün Web Sayfası",
+    "url": "http://80.251.40.59/science.ankara.edu.tr/ozturk/",
+    "id": 284,
+    "parentId": "1",
+    "dateAddedLocal": "23.02.2023 14:30:33",
+    "dateAddedUTC": "2023-02-23T11:30:33.566Z"
+  },
+  {
+    "index": 7,
+    "title": "Get Unique Design Briefs - Creative Brief Generator | Good Brief",
+    "url": "https://goodbrief.io/",
+    "id": 296,
+    "parentId": "1",
+    "dateAddedLocal": "01.03.2023 19:43:13",
+    "dateAddedUTC": "2023-03-01T16:43:13.183Z"
+  },
+  {
+    "index": 0,
+    "title": "html",
+    "id": 28,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:17:45",
+    "dateAddedUTC": "2022-01-18T20:17:45.847Z"
+  },
+  {
+    "index": 0,
+    "title": "Yer işaretleri",
+    "url": "chrome://bookmarks/",
+    "id": 29,
+    "parentId": "28",
+    "dateAddedLocal": "18.01.2022 23:17:10",
+    "dateAddedUTC": "2022-01-18T20:17:10.018Z"
+  },
+  {
+    "index": 1,
+    "title": "HTML Cheat Sheet",
+    "url": "https://htmlcheatsheet.com/",
+    "id": 30,
+    "parentId": "28",
+    "dateAddedLocal": "26.05.2021 01:48:00",
+    "dateAddedUTC": "2021-05-25T22:48:00.336Z"
+  },
+  {
+    "index": 1,
+    "title": "js",
+    "id": 31,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:19:58",
+    "dateAddedUTC": "2022-01-18T20:19:58.179Z"
+  },
+  {
+    "index": 0,
+    "title": "Online Interactive JavaScript (JS) Cheat Sheet",
+    "url": "https://htmlcheatsheet.com/js/",
+    "id": 32,
+    "parentId": "31",
+    "dateAddedLocal": "26.05.2021 01:59:02",
+    "dateAddedUTC": "2021-05-25T22:59:02.959Z"
+  },
+  {
+    "index": 1,
+    "title": "Eloquent JavaScript",
+    "url": "https://eloquentjavascript.net/",
+    "id": 33,
+    "parentId": "31",
+    "dateAddedLocal": "11.10.2021 18:47:06",
+    "dateAddedUTC": "2021-10-11T15:47:06.032Z"
+  },
+  {
+    "index": 2,
+    "title": "sorrycc/awesome-javascript: 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "id": 34,
+    "parentId": "31",
+    "dateAddedLocal": "31.10.2021 17:27:09",
+    "dateAddedUTC": "2021-10-31T14:27:09.728Z"
+  },
+  {
+    "index": 3,
+    "title": "CoffeeScript",
+    "url": "http://coffeescript.org/",
+    "id": 35,
+    "parentId": "31",
+    "dateAddedLocal": "14.01.2022 00:13:27",
+    "dateAddedUTC": "2022-01-13T21:13:27.478Z"
+  },
+  {
+    "index": 4,
+    "title": "Modern JavaScript Eğitimi",
+    "url": "https://tr.javascript.info/",
+    "id": 36,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 13:54:26",
+    "dateAddedUTC": "2022-01-19T10:54:26.333Z"
+  },
+  {
+    "index": 5,
+    "title": "eraycetinay/javascript: Airbnb JavaScript Kılavuzu",
+    "url": "https://github.com/eraycetinay/javascript",
+    "id": 37,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:00:40",
+    "dateAddedUTC": "2022-01-19T11:00:40.451Z"
+  },
+  {
+    "index": 6,
+    "title": "styled-components",
+    "url": "https://styled-components.com/",
+    "id": 38,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:02:09",
+    "dateAddedUTC": "2022-01-19T11:02:09.838Z"
+  },
+  {
+    "index": 7,
+    "title": "Build a Theme Switcher for Your Website with JavaScript - Studytonight",
+    "url": "https://www.studytonight.com/post/build-a-theme-switcher-for-your-website-with-javascript",
+    "id": 39,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:02:50",
+    "dateAddedUTC": "2022-01-19T11:02:50.502Z"
+  },
+  {
+    "index": 8,
+    "title": "Büyüleyen Matematik: Çarpışan Toplar",
+    "url": "https://matemacik.blogspot.com/2020/06/carpsan-toplar.html",
+    "id": 40,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:03:11",
+    "dateAddedUTC": "2022-01-19T11:03:11.581Z"
+  },
+  {
+    "index": 9,
+    "title": "stepchowfun/raytracer: A browser-based real-time raytracer written in CoffeeScript.",
+    "url": "https://github.com/stepchowfun/raytracer",
+    "id": 41,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:03:16",
+    "dateAddedUTC": "2022-01-19T11:03:16.362Z"
+  },
+  {
+    "index": 10,
+    "title": "20 JavaScript shorthand to save time • Emma",
+    "url": "https://blogemma.netlify.app/javascript/20-javascript-shortands-tosave-time/",
+    "id": 42,
+    "parentId": "31",
+    "dateAddedLocal": "19.01.2022 14:04:16",
+    "dateAddedUTC": "2022-01-19T11:04:16.918Z"
+  },
+  {
+    "index": 11,
+    "title": "jQuery Terminal: JavaScript Web Based Terminal Emulator",
+    "url": "https://terminal.jcubic.pl/",
+    "id": 260,
+    "parentId": "31",
+    "dateAddedLocal": "07.02.2023 02:50:13",
+    "dateAddedUTC": "2023-02-06T23:50:13.942Z"
+  },
+  {
+    "index": 12,
+    "title": "JavaScript - The Complete Guide | Showwcase",
+    "url": "https://www.showwcase.com/roadmap/7/javascript-the-complete-guide",
+    "id": 314,
+    "parentId": "31",
+    "dateAddedLocal": "24.03.2023 14:59:07",
+    "dateAddedUTC": "2023-03-24T11:59:07.735Z"
+  },
+  {
+    "index": 2,
+    "title": "eğitim",
+    "id": 43,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:21:12",
+    "dateAddedUTC": "2022-01-18T20:21:12.057Z"
+  },
+  {
+    "index": 0,
+    "title": "Khan Academy",
+    "url": "https://tr.khanacademy.org/",
+    "id": 44,
+    "parentId": "43",
+    "dateAddedLocal": "18.01.2022 23:20:44",
+    "dateAddedUTC": "2022-01-18T20:20:44.237Z"
+  },
+  {
+    "index": 1,
+    "title": "BubiSanat | Düşünen ve üreten herkes için bir soluklanma alanı!",
+    "url": "https://bubisanat.com/",
+    "id": 45,
+    "parentId": "43",
+    "dateAddedLocal": "19.01.2022 13:59:41",
+    "dateAddedUTC": "2022-01-19T10:59:41.427Z"
+  },
+  {
+    "index": 2,
+    "title": "SOYUT RESİMDE SUJE VE OBJE  ARASINDAKİ İLİŞKİ",
+    "url": "https://atauni.edu.tr/yuklemeler/b6f02843f29e087774b4e16a483a3123.pdf",
+    "id": 46,
+    "parentId": "43",
+    "dateAddedLocal": "19.01.2022 13:59:52",
+    "dateAddedUTC": "2022-01-19T10:59:52.315Z"
+  },
+  {
+    "index": 3,
+    "title": "Büyüleyen Matematik: TC Kimlik Numarası",
+    "url": "https://matemacik.blogspot.com/2020/03/tc-kimlik-numaras.html",
+    "id": 47,
+    "parentId": "43",
+    "dateAddedLocal": "19.01.2022 13:59:55",
+    "dateAddedUTC": "2022-01-19T10:59:55.771Z"
+  },
+  {
+    "index": 4,
+    "title": "DevDocs API Documentation",
+    "url": "https://devdocs.io/",
+    "id": 253,
+    "parentId": "43",
+    "dateAddedLocal": "31.01.2023 15:26:55",
+    "dateAddedUTC": "2023-01-31T12:26:55.570Z"
+  },
+  {
+    "index": 5,
+    "title": "Anasayfa - KEMİK",
+    "url": "http://www.kemik.yildiz.edu.tr/index.html",
+    "id": 303,
+    "parentId": "43",
+    "dateAddedLocal": "04.03.2023 01:58:09",
+    "dateAddedUTC": "2023-03-03T22:58:09.496Z"
+  },
+  {
+    "index": 3,
+    "title": "git",
+    "id": 48,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:24:33",
+    "dateAddedUTC": "2022-01-18T20:24:33.616Z"
+  },
+  {
+    "index": 0,
+    "title": "Türkçe Git 101",
+    "url": "https://aliozgur.gitbooks.io/git101/content/",
+    "id": 49,
+    "parentId": "48",
+    "dateAddedLocal": "17.06.2021 23:03:49",
+    "dateAddedUTC": "2021-06-17T20:03:49.492Z"
+  },
+  {
+    "index": 1,
+    "title": "git-cheat-sheet-education",
+    "url": "https://education.github.com/git-cheat-sheet-education.pdf",
+    "id": 50,
+    "parentId": "48",
+    "dateAddedLocal": "03.12.2021 17:43:59",
+    "dateAddedUTC": "2021-12-03T14:43:59.058Z"
+  },
+  {
+    "index": 4,
+    "title": "db",
+    "id": 51,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:25:37",
+    "dateAddedUTC": "2022-01-18T20:25:37.328Z"
+  },
+  {
+    "index": 0,
+    "title": "Supabase | The Open Source Firebase Alternative",
+    "url": "https://supabase.com/",
+    "id": 52,
+    "parentId": "51",
+    "dateAddedLocal": "18.01.2022 23:24:56",
+    "dateAddedUTC": "2022-01-18T20:24:56.418Z"
+  },
+  {
+    "index": 5,
+    "title": "icon",
+    "id": 53,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:26:30",
+    "dateAddedUTC": "2022-01-18T20:26:30.196Z"
+  },
+  {
+    "index": 0,
+    "title": "Icônes",
+    "url": "https://icones.netlify.app/",
+    "id": 54,
+    "parentId": "53",
+    "dateAddedLocal": "17.08.2021 15:51:53",
+    "dateAddedUTC": "2021-08-17T12:51:53.904Z"
+  },
+  {
+    "index": 1,
+    "title": "Akar Icons",
+    "url": "https://akaricons.com/",
+    "id": 55,
+    "parentId": "53",
+    "dateAddedLocal": "02.09.2021 11:01:56",
+    "dateAddedUTC": "2021-09-02T08:01:56.013Z"
+  },
+  {
+    "index": 2,
+    "title": "feathericons/feather: Simply beautiful open source icons",
+    "url": "https://github.com/feathericons/feather",
+    "id": 56,
+    "parentId": "53",
+    "dateAddedLocal": "31.10.2021 16:29:10",
+    "dateAddedUTC": "2021-10-31T13:29:10.322Z"
+  },
+  {
+    "index": 3,
+    "title": "Heroicons",
+    "url": "https://heroicons.com/",
+    "id": 57,
+    "parentId": "53",
+    "dateAddedLocal": "21.11.2021 18:52:38",
+    "dateAddedUTC": "2021-11-21T15:52:38.650Z"
+  },
+  {
+    "index": 4,
+    "title": "Download 99,109 Streamline Icons (22+ free sets)",
+    "url": "https://app.streamlinehq.com/icons",
+    "id": 58,
+    "parentId": "53",
+    "dateAddedLocal": "07.12.2021 16:16:31",
+    "dateAddedUTC": "2021-12-07T13:16:31.656Z"
+  },
+  {
+    "index": 5,
+    "title": "Fontello - icon fonts generator",
+    "url": "https://fontello.com/",
+    "id": 59,
+    "parentId": "53",
+    "dateAddedLocal": "19.01.2022 13:53:38",
+    "dateAddedUTC": "2022-01-19T10:53:38.849Z"
+  },
+  {
+    "index": 6,
+    "title": "Feather – Simply beautiful open source icons",
+    "url": "https://feathericons.com/",
+    "id": 60,
+    "parentId": "53",
+    "dateAddedLocal": "19.01.2022 13:53:45",
+    "dateAddedUTC": "2022-01-19T10:53:45.900Z"
+  },
+  {
+    "index": 6,
+    "title": "github",
+    "id": 61,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:26:48",
+    "dateAddedUTC": "2022-01-18T20:26:48.614Z"
+  },
+  {
+    "index": 0,
+    "title": "People You Should Follow on CodePen",
+    "url": "https://github.com/nucliweb/People-You-Should-Follow-on-CodePen",
+    "id": 62,
+    "parentId": "61",
+    "dateAddedLocal": "20.08.2021 17:32:17",
+    "dateAddedUTC": "2021-08-20T14:32:17.630Z"
+  },
+  {
+    "index": 1,
+    "title": "dragscroll: drag and scroll",
+    "url": "https://github.com/asvd/dragscroll",
+    "id": 63,
+    "parentId": "61",
+    "dateAddedLocal": "31.08.2021 15:57:57",
+    "dateAddedUTC": "2021-08-31T12:57:57.318Z"
+  },
+  {
+    "index": 2,
+    "title": "john-smilga/react-projects",
+    "url": "https://github.com/john-smilga/react-projects",
+    "id": 64,
+    "parentId": "61",
+    "dateAddedLocal": "02.09.2021 11:19:46",
+    "dateAddedUTC": "2021-09-02T08:19:46.912Z"
+  },
+  {
+    "index": 3,
+    "title": "saveSvgAsPng: Save SVGs as PNGs from the browser.",
+    "url": "https://github.com/exupero/saveSvgAsPng",
+    "id": 65,
+    "parentId": "61",
+    "dateAddedLocal": "29.09.2021 15:53:53",
+    "dateAddedUTC": "2021-09-29T12:53:53.316Z"
+  },
+  {
+    "index": 4,
+    "title": "mitxela/bf-tic-tac-toe",
+    "url": "https://github.com/mitxela/bf-tic-tac-toe",
+    "id": 66,
+    "parentId": "61",
+    "dateAddedLocal": "24.10.2021 18:39:43",
+    "dateAddedUTC": "2021-10-24T15:39:43.691Z"
+  },
+  {
+    "index": 5,
+    "title": "Jack000/Color-Graph: client-side color graph library",
+    "url": "https://github.com/Jack000/Color-Graph",
+    "id": 67,
+    "parentId": "61",
+    "dateAddedLocal": "18.11.2021 14:25:16",
+    "dateAddedUTC": "2021-11-18T11:25:16.132Z"
+  },
+  {
+    "index": 6,
+    "title": "omergulcicek/frontend-boilerplate: Frontend proje taslağı (ES6, Gulp, Sass)",
+    "url": "https://github.com/omergulcicek/frontend-boilerplate",
+    "id": 68,
+    "parentId": "61",
+    "dateAddedLocal": "08.12.2021 15:27:13",
+    "dateAddedUTC": "2021-12-08T12:27:13.665Z"
+  },
+  {
+    "index": 7,
+    "title": "Binder",
+    "url": "https://mybinder.org/",
+    "id": 69,
+    "parentId": "61",
+    "dateAddedLocal": "19.01.2022 13:53:18",
+    "dateAddedUTC": "2022-01-19T10:53:18.599Z"
+  },
+  {
+    "index": 7,
+    "title": "ui-ux",
+    "id": 70,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:28:09",
+    "dateAddedUTC": "2022-01-18T20:28:09.075Z"
+  },
+  {
+    "index": 0,
+    "title": "Collect UI",
+    "url": "https://collectui.com/designs",
+    "id": 71,
+    "parentId": "70",
+    "dateAddedLocal": "01.09.2021 18:42:53",
+    "dateAddedUTC": "2021-09-01T15:42:53.847Z"
+  },
+  {
+    "index": 1,
+    "title": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
+    "url": "https://www.frontendmentor.io/",
+    "id": 72,
+    "parentId": "70",
+    "dateAddedLocal": "31.10.2021 17:43:08",
+    "dateAddedUTC": "2021-10-31T14:43:08.987Z"
+  },
+  {
+    "index": 2,
+    "title": "Free Vector Illustrations for Commercial Use | Scale",
+    "url": "https://2.flexiple.com/scale/all-illustrations",
+    "id": 73,
+    "parentId": "70",
+    "dateAddedLocal": "03.11.2021 18:23:46",
+    "dateAddedUTC": "2021-11-03T15:23:46.019Z"
+  },
+  {
+    "index": 3,
+    "title": "Svg Wave - A free & beautiful gradient SVG wave Generator.",
+    "url": "https://www.svgwave.in/",
+    "id": 74,
+    "parentId": "70",
+    "dateAddedLocal": "27.12.2021 17:28:49",
+    "dateAddedUTC": "2021-12-27T14:28:49.286Z"
+  },
+  {
+    "index": 4,
+    "title": "ColorSpace - Color Palettes Generator and Color Gradient Tool",
+    "url": "https://mycolor.space/?hex=%23845EC2&sub=1",
+    "id": 75,
+    "parentId": "70",
+    "dateAddedLocal": "18.01.2022 23:55:05",
+    "dateAddedUTC": "2022-01-18T20:55:05.893Z"
+  },
+  {
+    "index": 5,
+    "title": "Wordmark - Helps you choose fonts!",
+    "url": "https://wordmark.it/",
+    "id": 76,
+    "parentId": "70",
+    "dateAddedLocal": "27.12.2021 17:35:55",
+    "dateAddedUTC": "2021-12-27T14:35:55.070Z"
+  },
+  {
+    "index": 6,
+    "title": "Omatsuri",
+    "url": "https://omatsuri.app/",
+    "id": 77,
+    "parentId": "70",
+    "dateAddedLocal": "28.12.2021 21:14:08",
+    "dateAddedUTC": "2021-12-28T18:14:08.207Z"
+  },
+  {
+    "index": 7,
+    "title": "Rive",
+    "url": "https://rive.app/",
+    "id": 78,
+    "parentId": "70",
+    "dateAddedLocal": "18.01.2022 23:57:39",
+    "dateAddedUTC": "2022-01-18T20:57:39.981Z"
+  },
+  {
+    "index": 8,
+    "title": "BGJar | Free svg background image generator for your websites",
+    "url": "https://bgjar.com/",
+    "id": 79,
+    "parentId": "70",
+    "dateAddedLocal": "05.01.2022 16:31:26",
+    "dateAddedUTC": "2022-01-05T13:31:26.795Z"
+  },
+  {
+    "index": 9,
+    "title": "Dashboard | Figside",
+    "url": "https://figside.com/dashboard",
+    "id": 80,
+    "parentId": "70",
+    "dateAddedLocal": "07.01.2022 14:55:57",
+    "dateAddedUTC": "2022-01-07T11:55:57.536Z"
+  },
+  {
+    "index": 10,
+    "title": "Pattern Monster - SVG Desen Oluşturucu",
+    "url": "https://tr.pattern.monster/",
+    "id": 81,
+    "parentId": "70",
+    "dateAddedLocal": "07.01.2022 14:56:14",
+    "dateAddedUTC": "2022-01-07T11:56:14.355Z"
+  },
+  {
+    "index": 11,
+    "title": "Checklist Design - A collection of the best design practices.",
+    "url": "https://www.checklist.design/",
+    "id": 82,
+    "parentId": "70",
+    "dateAddedLocal": "07.01.2022 14:58:33",
+    "dateAddedUTC": "2022-01-07T11:58:33.492Z"
+  },
+  {
+    "index": 12,
+    "title": "UI Design Daily | Weekly FREE UI resources straight to your inbox",
+    "url": "https://www.uidesigndaily.com/",
+    "id": 83,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:47:01",
+    "dateAddedUTC": "2022-01-19T10:47:01.350Z"
+  },
+  {
+    "index": 13,
+    "title": "Renk teorisi ve renk çarkı - Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/Renk_teorisi_ve_renk_%C3%A7ark%C4%B1",
+    "id": 84,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:47:08",
+    "dateAddedUTC": "2022-01-19T10:47:08.148Z"
+  },
+  {
+    "index": 14,
+    "title": "Color Wheel - get color ideas for your logo, illustration or web design",
+    "url": "https://brandmark.io/color-wheel/app/",
+    "id": 85,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:50:59",
+    "dateAddedUTC": "2022-01-19T10:50:59.051Z"
+  },
+  {
+    "index": 15,
+    "title": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
+    "url": "https://www.frontendmentor.io/solutions",
+    "id": 86,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:54:21",
+    "dateAddedUTC": "2022-01-19T10:54:21.269Z"
+  },
+  {
+    "index": 16,
+    "title": "eraycetinay/Front-End-Checklist: 🗂 Modern sitelerin titiz geliştiricileri için Front-End Checklist",
+    "url": "https://github.com/eraycetinay/Front-End-Checklist",
+    "id": 87,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:54:40",
+    "dateAddedUTC": "2022-01-19T10:54:40.345Z"
+  },
+  {
+    "index": 17,
+    "title": "Illustrations | unDraw",
+    "url": "https://undraw.co/illustrations",
+    "id": 88,
+    "parentId": "70",
+    "dateAddedLocal": "19.01.2022 13:55:21",
+    "dateAddedUTC": "2022-01-19T10:55:21.082Z"
+  },
+  {
+    "index": 18,
+    "title": "🧠Psychology of Design: 106 Cognitive Biases & Principles That Affect Your UX",
+    "url": "https://growth.design/psychology",
+    "id": 89,
+    "parentId": "70",
+    "dateAddedLocal": "18.02.2022 20:19:54",
+    "dateAddedUTC": "2022-02-18T17:19:54.557Z"
+  },
+  {
+    "index": 19,
+    "title": "Picular",
+    "url": "https://picular.co/",
+    "id": 90,
+    "parentId": "70",
+    "dateAddedLocal": "18.02.2022 20:20:08",
+    "dateAddedUTC": "2022-02-18T17:20:08.758Z"
+  },
+  {
+    "index": 20,
+    "title": "Screenlane - Web & mobile UI design inspiration",
+    "url": "https://screenlane.com/",
+    "id": 91,
+    "parentId": "70",
+    "dateAddedLocal": "18.02.2022 20:22:02",
+    "dateAddedUTC": "2022-02-18T17:22:02.692Z"
+  },
+  {
+    "index": 21,
+    "title": "Page Collective - landing page design inspiration",
+    "url": "https://pagecollective.com/",
+    "id": 92,
+    "parentId": "70",
+    "dateAddedLocal": "18.02.2022 20:23:31",
+    "dateAddedUTC": "2022-02-18T17:23:31.348Z"
+  },
+  {
+    "index": 22,
+    "title": "Page Flows - user flow design inspiration",
+    "url": "https://pageflows.com/",
+    "id": 93,
+    "parentId": "70",
+    "dateAddedLocal": "18.02.2022 20:23:45",
+    "dateAddedUTC": "2022-02-18T17:23:45.099Z"
+  },
+  {
+    "index": 23,
+    "title": "Find the perfect font | Fonts in the Wild",
+    "url": "https://www.fontsinthewild.com/",
+    "id": 94,
+    "parentId": "70",
+    "dateAddedLocal": "20.02.2022 17:19:33",
+    "dateAddedUTC": "2022-02-20T14:19:33.591Z"
+  },
+  {
+    "index": 24,
+    "title": "Browse iOS Apps | Mobbin",
+    "url": "https://mobbin.com/browse/ios/apps",
+    "id": 249,
+    "parentId": "70",
+    "dateAddedLocal": "29.01.2023 02:04:49",
+    "dateAddedUTC": "2023-01-28T23:04:49.724Z"
+  },
+  {
+    "index": 25,
+    "title": "Packaging Printing | Pacdora",
+    "url": "https://www.pacdora.com/printing",
+    "id": 297,
+    "parentId": "70",
+    "dateAddedLocal": "02.03.2023 00:08:24",
+    "dateAddedUTC": "2023-03-01T21:08:24.374Z"
+  },
+  {
+    "index": 26,
+    "title": "Open-Source UI elements - made with CSS and HTML",
+    "url": "https://uiverse.io/",
+    "id": 300,
+    "parentId": "70",
+    "dateAddedLocal": "02.03.2023 22:30:49",
+    "dateAddedUTC": "2023-03-02T19:30:49.212Z"
+  },
+  {
+    "index": 27,
+    "title": "Bundlephobia | Size of npm dependencies",
+    "url": "https://bundlephobia.com/",
+    "id": 302,
+    "parentId": "70",
+    "dateAddedLocal": "03.03.2023 18:21:25",
+    "dateAddedUTC": "2023-03-03T15:21:25.185Z"
+  },
+  {
+    "index": 28,
+    "title": "UXArchive - Made by Waldo",
+    "url": "https://uxarchive.com/",
+    "id": 305,
+    "parentId": "70",
+    "dateAddedLocal": "19.03.2023 01:03:09",
+    "dateAddedUTC": "2023-03-18T22:03:09.151Z"
+  },
+  {
+    "index": 29,
+    "title": "Home - UX Design World",
+    "url": "https://uxdworld.com/",
+    "id": 307,
+    "parentId": "70",
+    "dateAddedLocal": "19.03.2023 01:27:17",
+    "dateAddedUTC": "2023-03-18T22:27:17.545Z"
+  },
+  {
+    "index": 30,
+    "title": "Siteinspire | Web Design Inspiration",
+    "url": "https://www.siteinspire.com/",
+    "id": 308,
+    "parentId": "70",
+    "dateAddedLocal": "19.03.2023 01:28:37",
+    "dateAddedUTC": "2023-03-18T22:28:37.942Z"
+  },
+  {
+    "index": 31,
+    "title": "DeepL Translate: Dünyanın en isabetli çevirisi",
+    "url": "https://www.deepl.com/tr/translator#en/tr/There's%20also%20a%20boolean%20type.",
+    "id": 310,
+    "parentId": "70",
+    "dateAddedLocal": "20.03.2023 13:30:21",
+    "dateAddedUTC": "2023-03-20T10:30:21.882Z"
+  },
+  {
+    "index": 32,
+    "title": "Cufon Fonts: Download High Quality Free Fonts for Desktop and WebFonts",
+    "url": "https://www.cufonfonts.com/",
+    "id": 315,
+    "parentId": "70",
+    "dateAddedLocal": "24.03.2023 18:26:19",
+    "dateAddedUTC": "2023-03-24T15:26:19.143Z"
+  },
+  {
+    "index": 8,
+    "title": "codepen",
+    "id": 95,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:28:44",
+    "dateAddedUTC": "2022-01-18T20:28:44.845Z"
+  },
+  {
+    "index": 0,
+    "title": "Navbar with tooltip on hover",
+    "url": "https://codepen.io/havardob/pen/qBjbQya",
+    "id": 96,
+    "parentId": "95",
+    "dateAddedLocal": "02.09.2021 13:26:40",
+    "dateAddedUTC": "2021-09-02T10:26:40.306Z"
+  },
+  {
+    "index": 1,
+    "title": "Neumorphism Login Form",
+    "url": "https://codepen.io/ricardoolivaalonso/pen/YzyaRPN?editors=1010",
+    "id": 97,
+    "parentId": "95",
+    "dateAddedLocal": "29.09.2021 15:25:49",
+    "dateAddedUTC": "2021-09-29T12:25:49.879Z"
+  },
+  {
+    "index": 9,
+    "title": "react",
+    "id": 98,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:29:17",
+    "dateAddedUTC": "2022-01-18T20:29:17.575Z"
+  },
+  {
+    "index": 0,
+    "title": "React Projects || John Smilga",
+    "url": "https://react-projects.netlify.app/",
+    "id": 99,
+    "parentId": "98",
+    "dateAddedLocal": "24.09.2021 21:18:54",
+    "dateAddedUTC": "2021-09-24T18:18:54.753Z"
+  },
+  {
+    "index": 1,
+    "title": "React Designer",
+    "url": "https://react-designer.github.io/react-designer/",
+    "id": 100,
+    "parentId": "98",
+    "dateAddedLocal": "22.10.2021 16:04:16",
+    "dateAddedUTC": "2021-10-22T13:04:16.633Z"
+  },
+  {
+    "index": 2,
+    "title": "react-spring",
+    "url": "https://react-spring.io/",
+    "id": 101,
+    "parentId": "98",
+    "dateAddedLocal": "19.01.2022 13:49:36",
+    "dateAddedUTC": "2022-01-19T10:49:36.323Z"
+  },
+  {
+    "index": 3,
+    "title": "quotes/src at master · datejer/quotes",
+    "url": "https://github.com/datejer/quotes/tree/master/src",
+    "id": 102,
+    "parentId": "98",
+    "dateAddedLocal": "19.01.2022 13:49:51",
+    "dateAddedUTC": "2022-01-19T10:49:51.622Z"
+  },
+  {
+    "index": 10,
+    "title": "prog-lang",
+    "id": 103,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:32:26",
+    "dateAddedUTC": "2022-01-18T20:32:26.071Z"
+  },
+  {
+    "index": 0,
+    "title": "Zig Programming Language",
+    "url": "https://ziglang.org/learn/getting-started/",
+    "id": 104,
+    "parentId": "103",
+    "dateAddedLocal": "30.09.2021 23:02:51",
+    "dateAddedUTC": "2021-09-30T20:02:51.807Z"
+  },
+  {
+    "index": 1,
+    "title": "NewFuck: A interpreter of the language NewFuck (Extended from BrainFuck).",
+    "url": "https://github.com/zhangzheheng12345/NewFuck",
+    "id": 105,
+    "parentId": "103",
+    "dateAddedLocal": "23.10.2021 14:53:17",
+    "dateAddedUTC": "2021-10-23T11:53:17.803Z"
+  },
+  {
+    "index": 2,
+    "title": "Using Octave - Octave",
+    "url": "https://wiki.octave.org/Using_Octave",
+    "id": 106,
+    "parentId": "103",
+    "dateAddedLocal": "25.11.2021 23:22:53",
+    "dateAddedUTC": "2021-11-25T20:22:53.189Z"
+  },
+  {
+    "index": 11,
+    "title": "improve-skill-learn",
+    "id": 107,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:33:16",
+    "dateAddedUTC": "2022-01-18T20:33:16.818Z"
+  },
+  {
+    "index": 0,
+    "title": "Project Euler",
+    "url": "https://projecteuler.net/archives",
+    "id": 108,
+    "parentId": "107",
+    "dateAddedLocal": "09.10.2021 22:46:18",
+    "dateAddedUTC": "2021-10-09T19:46:18.468Z"
+  },
+  {
+    "index": 1,
+    "title": "awesome-turkish-nlp",
+    "url": "https://gitmetadata.com/repo/yusufusta/awesome-turkish-nlp",
+    "id": 109,
+    "parentId": "107",
+    "dateAddedLocal": "18.01.2022 23:34:18",
+    "dateAddedUTC": "2022-01-18T20:34:18.328Z"
+  },
+  {
+    "index": 2,
+    "title": "BrainFuck Visualizer",
+    "url": "https://brainfuck-visualizer.herokuapp.com/#",
+    "id": 110,
+    "parentId": "107",
+    "dateAddedLocal": "23.10.2021 20:05:17",
+    "dateAddedUTC": "2021-10-23T17:05:17.060Z"
+  },
+  {
+    "index": 3,
+    "title": "LeetCode - The World's Leading Online Programming Learning Platform",
+    "url": "https://leetcode.com/",
+    "id": 111,
+    "parentId": "107",
+    "dateAddedLocal": "24.10.2021 17:28:24",
+    "dateAddedUTC": "2021-10-24T14:28:24.917Z"
+  },
+  {
+    "index": 4,
+    "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
+    "url": "https://learnxinyminutes.com/",
+    "id": 112,
+    "parentId": "107",
+    "dateAddedLocal": "18.01.2022 23:43:12",
+    "dateAddedUTC": "2022-01-18T20:43:12.390Z"
+  },
+  {
+    "index": 5,
+    "title": "Julia.jl | Curated decibans of Julia programming language.",
+    "url": "https://svaksha.github.io/Julia.jl/",
+    "id": 113,
+    "parentId": "107",
+    "dateAddedLocal": "02.11.2021 18:53:41",
+    "dateAddedUTC": "2021-11-02T15:53:41.510Z"
+  },
+  {
+    "index": 6,
+    "title": "W3docs | Tutorials, Quizzes, Certificates, Frameworks, Solutions",
+    "url": "https://www.w3docs.com/",
+    "id": 114,
+    "parentId": "107",
+    "dateAddedLocal": "08.11.2021 16:02:30",
+    "dateAddedUTC": "2021-11-08T13:02:30.476Z"
+  },
+  {
+    "index": 7,
+    "title": "Bootstrap 5 CheatSheet By ThemeSelection | Classes",
+    "url": "https://bootstrap-cheatsheet.themeselection.com/",
+    "id": 115,
+    "parentId": "107",
+    "dateAddedLocal": "31.12.2021 12:22:52",
+    "dateAddedUTC": "2021-12-31T09:22:52.519Z"
+  },
+  {
+    "index": 8,
+    "title": "w3collective - Practical front-end web development tutorials",
+    "url": "https://w3collective.com/",
+    "id": 116,
+    "parentId": "107",
+    "dateAddedLocal": "19.01.2022 13:54:47",
+    "dateAddedUTC": "2022-01-19T10:54:47.786Z"
+  },
+  {
+    "index": 9,
+    "title": "Cheat Sheet",
+    "url": "https://docs.emmet.io/cheat-sheet/",
+    "id": 117,
+    "parentId": "107",
+    "dateAddedLocal": "19.01.2022 13:55:09",
+    "dateAddedUTC": "2022-01-19T10:55:09.400Z"
+  },
+  {
+    "index": 10,
+    "title": "30 seconds of code",
+    "url": "https://www.30secondsofcode.org/",
+    "id": 118,
+    "parentId": "107",
+    "dateAddedLocal": "19.01.2022 13:55:46",
+    "dateAddedUTC": "2022-01-19T10:55:46.364Z"
+  },
+  {
+    "index": 11,
+    "title": "JavaScript Örnekleri",
+    "url": "https://maeyler.github.io/JS/",
+    "id": 119,
+    "parentId": "107",
+    "dateAddedLocal": "19.01.2022 14:00:29",
+    "dateAddedUTC": "2022-01-19T11:00:29.505Z"
+  },
+  {
+    "index": 12,
+    "title": "nim",
+    "id": 120,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:33:40",
+    "dateAddedUTC": "2022-01-18T20:33:40.046Z"
+  },
+  {
+    "index": 0,
+    "title": "Nim basics",
+    "url": "https://narimiran.github.io/nim-basics/",
+    "id": 121,
+    "parentId": "120",
+    "dateAddedLocal": "17.10.2021 13:47:19",
+    "dateAddedUTC": "2021-10-17T10:47:19.058Z"
+  },
+  {
+    "index": 13,
+    "title": "regex",
+    "id": 122,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:34:57",
+    "dateAddedUTC": "2022-01-18T20:34:57.444Z"
+  },
+  {
+    "index": 0,
+    "title": "Regex Hub - Useful Regex Patterns",
+    "url": "https://projects.lukehaas.me/regexhub/",
+    "id": 123,
+    "parentId": "122",
+    "dateAddedLocal": "21.10.2021 19:26:47",
+    "dateAddedUTC": "2021-10-21T16:26:47.729Z"
+  },
+  {
+    "index": 1,
+    "title": "regex101: build, test, and debug regex",
+    "url": "https://regex101.com/",
+    "id": 124,
+    "parentId": "122",
+    "dateAddedLocal": "19.01.2022 13:51:48",
+    "dateAddedUTC": "2022-01-19T10:51:48.254Z"
+  },
+  {
+    "index": 2,
+    "title": "Regular Expressions",
+    "url": "http://speakingjs.com/es5/ch19.html",
+    "id": 125,
+    "parentId": "122",
+    "dateAddedLocal": "19.01.2022 13:52:37",
+    "dateAddedUTC": "2022-01-19T10:52:37.986Z"
+  },
+  {
+    "index": 3,
+    "title": "Regular Expressions(Regex) Nedir? Nasıl Kullanılır? • PRISMA CSI",
+    "url": "https://www.prismacsi.com/regular-expressions-regex-nedir-nasil-kullanilir/",
+    "id": 126,
+    "parentId": "122",
+    "dateAddedLocal": "19.01.2022 13:53:15",
+    "dateAddedUTC": "2022-01-19T10:53:15.045Z"
+  },
+  {
+    "index": 14,
+    "title": "imterest-link",
+    "id": 127,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:36:46",
+    "dateAddedUTC": "2022-01-18T20:36:46.300Z"
+  },
+  {
+    "index": 0,
+    "title": "SimilarSites Easily Explore alternative websites",
+    "url": "https://www.similarsites.com/",
+    "id": 128,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 21:23:58",
+    "dateAddedUTC": "2021-10-21T18:23:58.928Z"
+  },
+  {
+    "index": 1,
+    "title": "Her Şey için Tamir Kılavuzları - iFixit",
+    "url": "https://tr.ifixit.com/guide",
+    "id": 129,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 21:25:48",
+    "dateAddedUTC": "2021-10-21T18:25:48.820Z"
+  },
+  {
+    "index": 2,
+    "title": "The Internet Movie Script Database (IMSDb)",
+    "url": "https://imsdb.com/",
+    "id": 130,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 21:27:49",
+    "dateAddedUTC": "2021-10-21T18:27:49.319Z"
+  },
+  {
+    "index": 3,
+    "title": "Drive & Listen",
+    "url": "https://driveandlisten.herokuapp.com/",
+    "id": 131,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 21:40:49",
+    "dateAddedUTC": "2021-10-21T18:40:49.637Z"
+  },
+  {
+    "index": 4,
+    "title": "Neal.fun",
+    "url": "https://neal.fun/",
+    "id": 132,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 21:45:23",
+    "dateAddedUTC": "2021-10-21T18:45:23.333Z"
+  },
+  {
+    "index": 5,
+    "title": "AI Gahaku : A masterpiece from your photos.",
+    "url": "https://ai-art.tokyo/en/",
+    "id": 133,
+    "parentId": "127",
+    "dateAddedLocal": "21.10.2021 22:34:43",
+    "dateAddedUTC": "2021-10-21T19:34:43.830Z"
+  },
+  {
+    "index": 6,
+    "title": "what quotes - QuoDB",
+    "url": "https://www.quodb.com/",
+    "id": 134,
+    "parentId": "127",
+    "dateAddedLocal": "03.11.2021 18:51:16",
+    "dateAddedUTC": "2021-11-03T15:51:16.860Z"
+  },
+  {
+    "index": 7,
+    "title": "Atatürk Nerede?",
+    "url": "https://www.ataturknerede.com/",
+    "id": 135,
+    "parentId": "127",
+    "dateAddedLocal": "18.01.2022 23:50:33",
+    "dateAddedUTC": "2022-01-18T20:50:33.282Z"
+  },
+  {
+    "index": 8,
+    "title": "WindowSwap",
+    "url": "https://www.window-swap.com/Window",
+    "id": 136,
+    "parentId": "127",
+    "dateAddedLocal": "03.11.2021 19:18:10",
+    "dateAddedUTC": "2021-11-03T16:18:10.217Z"
+  },
+  {
+    "index": 9,
+    "title": "neverinstall | Your browser is the new operating system",
+    "url": "https://neverinstall.com/",
+    "id": 137,
+    "parentId": "127",
+    "dateAddedLocal": "05.01.2022 16:43:04",
+    "dateAddedUTC": "2022-01-05T13:43:04.514Z"
+  },
+  {
+    "index": 10,
+    "title": "Home - SmallDev.tools",
+    "url": "https://smalldev.tools/",
+    "id": 138,
+    "parentId": "127",
+    "dateAddedLocal": "07.01.2022 15:06:39",
+    "dateAddedUTC": "2022-01-07T12:06:39.058Z"
+  },
+  {
+    "index": 11,
+    "title": "Meta Tags — Preview, Edit and Generate",
+    "url": "https://metatags.io/",
+    "id": 139,
+    "parentId": "127",
+    "dateAddedLocal": "07.01.2022 15:22:52",
+    "dateAddedUTC": "2022-01-07T12:22:52.278Z"
+  },
+  {
+    "index": 12,
+    "title": "Interactive Mathematics Miscellany <br>and Puzzles",
+    "url": "http://www.cut-the-knot.org/",
+    "id": 140,
+    "parentId": "127",
+    "dateAddedLocal": "11.01.2022 18:16:12",
+    "dateAddedUTC": "2022-01-11T15:16:12.295Z"
+  },
+  {
+    "index": 13,
+    "title": "Open Book Publishers - Open Book Publishers",
+    "url": "https://www.openbookpublishers.com/",
+    "id": 141,
+    "parentId": "127",
+    "dateAddedLocal": "11.01.2022 18:18:23",
+    "dateAddedUTC": "2022-01-11T15:18:23.558Z"
+  },
+  {
+    "index": 15,
+    "title": "edebiyat",
+    "id": 142,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:49:27",
+    "dateAddedUTC": "2022-01-18T20:49:27.375Z"
+  },
+  {
+    "index": 0,
+    "title": "Aylık Öykü Seçkisi – #144: EŞKIYA",
+    "url": "https://oykuseckisi.com/",
+    "id": 143,
+    "parentId": "142",
+    "dateAddedLocal": "03.11.2021 18:54:06",
+    "dateAddedUTC": "2021-11-03T15:54:06.895Z"
+  },
+  {
+    "index": 16,
+    "title": "language",
+    "id": 144,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:51:31",
+    "dateAddedUTC": "2022-01-18T20:51:31.794Z"
+  },
+  {
+    "index": 0,
+    "title": "NHK WORLD JAPAN",
+    "url": "https://www.nhk.or.jp/lesson/tr/",
+    "id": 145,
+    "parentId": "144",
+    "dateAddedLocal": "15.11.2021 23:40:09",
+    "dateAddedUTC": "2021-11-15T20:40:09.938Z"
+  },
+  {
+    "index": 17,
+    "title": "psikoloji",
+    "id": 146,
+    "parentId": "2",
+    "dateAddedLocal": "10.02.2022 21:14:39",
+    "dateAddedUTC": "2022-02-10T18:14:39.446Z"
+  },
+  {
+    "index": 0,
+    "title": "Psikolojiye Giriş I",
+    "url": "https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/19_20_Guz/psikolojiye_giris_1/index.html",
+    "id": 147,
+    "parentId": "146",
+    "dateAddedLocal": "10.02.2022 21:14:25",
+    "dateAddedUTC": "2022-02-10T18:14:25.574Z"
+  },
+  {
+    "index": 1,
+    "title": "Psikoloji",
+    "url": "https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/18_19/psikoloji/2/index.html",
+    "id": 148,
+    "parentId": "146",
+    "dateAddedLocal": "10.02.2022 21:14:40",
+    "dateAddedUTC": "2022-02-10T18:14:40.958Z"
+  },
+  {
+    "index": 2,
+    "title": "Psikolojiye Giriş II",
+    "url": "https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/19_20_Bahar/psikolojiye_giris_2/index.html",
+    "id": 149,
+    "parentId": "146",
+    "dateAddedLocal": "10.02.2022 21:14:45",
+    "dateAddedUTC": "2022-02-10T18:14:45.630Z"
+  },
+  {
+    "index": 3,
+    "title": "Sosyal Psikolojiye Giriş I",
+    "url": "https://cdn-acikogretim.istanbul.edu.tr/auzefcontent/21_22_Guz/sosyal_psikolojiye_giris_1/index.html",
+    "id": 150,
+    "parentId": "146",
+    "dateAddedLocal": "10.02.2022 21:16:37",
+    "dateAddedUTC": "2022-02-10T18:16:37.818Z"
+  },
+  {
+    "index": 4,
+    "title": "Haluk Beker - Klasik Mekanik",
+    "url": "https://sites.google.com/view/halukbeker/home/klasik-mekanik",
+    "id": 151,
+    "parentId": "146",
+    "dateAddedLocal": "11.02.2022 17:14:01",
+    "dateAddedUTC": "2022-02-11T14:14:01.471Z"
+  },
+  {
+    "index": 18,
+    "title": "coder",
+    "id": 152,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:52:57",
+    "dateAddedUTC": "2022-01-18T20:52:57.850Z"
+  },
+  {
+    "index": 0,
+    "title": "Replit",
+    "url": "https://replit.com/~",
+    "id": 153,
+    "parentId": "152",
+    "dateAddedLocal": "20.11.2021 15:12:40",
+    "dateAddedUTC": "2021-11-20T12:12:40.995Z"
+  },
+  {
+    "index": 19,
+    "title": "astronomi",
+    "id": 154,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:57:03",
+    "dateAddedUTC": "2022-01-18T20:57:03.680Z"
+  },
+  {
+    "index": 0,
+    "title": "Unprocessed Astrophotography Image Data Files",
+    "url": "http://www.remote-astrophotography.com/cgi-bin/Fits.pl",
+    "id": 155,
+    "parentId": "154",
+    "dateAddedLocal": "30.12.2021 16:44:54",
+    "dateAddedUTC": "2021-12-30T13:44:54.122Z"
+  },
+  {
+    "index": 1,
+    "title": "Hubble Legacy Archive",
+    "url": "https://hla.stsci.edu/hlaview.html",
+    "id": 156,
+    "parentId": "154",
+    "dateAddedLocal": "22.01.2022 07:35:09",
+    "dateAddedUTC": "2022-01-22T04:35:09.391Z"
+  },
+  {
+    "index": 2,
+    "title": "Kayıp Rıhtım Yeni Ekip Arkadaşları Arıyor! – Kayıp Rıhtım",
+    "url": "https://kayiprihtim.com/kayip-rihtim/kayip-rihtim-yeni-ekip-arkadaslari-ariyor/",
+    "id": 157,
+    "parentId": "154",
+    "dateAddedLocal": "07.02.2022 09:28:28",
+    "dateAddedUTC": "2022-02-07T06:28:28.334Z"
+  },
+  {
+    "index": 20,
+    "title": "API",
+    "id": 158,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:58:43",
+    "dateAddedUTC": "2022-01-18T20:58:43.219Z"
+  },
+  {
+    "index": 0,
+    "title": "Next Generation Cloud Platform | M3O",
+    "url": "https://m3o.com/",
+    "id": 159,
+    "parentId": "158",
+    "dateAddedLocal": "05.01.2022 16:32:05",
+    "dateAddedUTC": "2022-01-05T13:32:05.539Z"
+  },
+  {
+    "index": 1,
+    "title": "MediaWiki API yardımı - Vikipedi",
+    "url": "https://tr.wikipedia.org/w/api.php",
+    "id": 160,
+    "parentId": "158",
+    "dateAddedLocal": "19.01.2022 13:56:56",
+    "dateAddedUTC": "2022-01-19T10:56:56.289Z"
+  },
+  {
+    "index": 2,
+    "title": "public-apis/public-apis: A collective list of free APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "id": 161,
+    "parentId": "158",
+    "dateAddedLocal": "19.01.2022 13:57:03",
+    "dateAddedUTC": "2022-01-19T10:57:03.459Z"
+  },
+  {
+    "index": 3,
+    "title": "berkocan/Doviz-Kurlari-Api-Json-Kodu: Sitene Döviz Kurları Ekle | Dolar, Euro (Api) Json",
+    "url": "https://github.com/berkocan/Doviz-Kurlari-Api-Json-Kodu",
+    "id": 162,
+    "parentId": "158",
+    "dateAddedLocal": "19.01.2022 13:57:06",
+    "dateAddedUTC": "2022-01-19T10:57:06.074Z"
+  },
+  {
+    "index": 4,
+    "title": "newton",
+    "url": "https://newton.vercel.app/",
+    "id": 163,
+    "parentId": "158",
+    "dateAddedLocal": "19.01.2022 13:57:08",
+    "dateAddedUTC": "2022-01-19T10:57:08.267Z"
+  },
+  {
+    "index": 21,
+    "title": "css",
+    "id": 164,
+    "parentId": "2",
+    "dateAddedLocal": "18.01.2022 23:58:59",
+    "dateAddedUTC": "2022-01-18T20:58:59.312Z"
+  },
+  {
+    "index": 0,
+    "title": "Glassmorphism CSS Generator | Hype4 Academy",
+    "url": "https://hype4.academy/tools/glassmorphism-generator",
+    "id": 165,
+    "parentId": "164",
+    "dateAddedLocal": "05.01.2022 16:34:38",
+    "dateAddedUTC": "2022-01-05T13:34:38.845Z"
+  },
+  {
+    "index": 1,
+    "title": "Navbar Experiment",
+    "url": "https://codepen.io/MarioD/pen/yLBYXNL?editors=1010",
+    "id": 166,
+    "parentId": "164",
+    "dateAddedLocal": "19.01.2022 13:50:06",
+    "dateAddedUTC": "2022-01-19T10:50:06.237Z"
+  },
+  {
+    "index": 2,
+    "title": "Tailwind CSS - Cheatsheet",
+    "url": "https://umeshmk.github.io/Tailwindcss-cheatsheet/",
+    "id": 167,
+    "parentId": "164",
+    "dateAddedLocal": "19.01.2022 13:50:15",
+    "dateAddedUTC": "2022-01-19T10:50:15.896Z"
+  },
+  {
+    "index": 3,
+    "title": "Istanbul — GSAP ScrollTrigger",
+    "url": "https://codepen.io/knyttneve/pen/zYrZwVo?editors=1010",
+    "id": 168,
+    "parentId": "164",
+    "dateAddedLocal": "19.01.2022 13:50:19",
+    "dateAddedUTC": "2022-01-19T10:50:19.262Z"
+  },
+  {
+    "index": 4,
+    "title": "How to trigger a CSS animation on scroll",
+    "url": "https://coolcssanimation.com/how-to-trigger-a-css-animation-on-scroll/",
+    "id": 169,
+    "parentId": "164",
+    "dateAddedLocal": "19.01.2022 13:50:27",
+    "dateAddedUTC": "2022-01-19T10:50:27.901Z"
+  },
+  {
+    "index": 5,
+    "title": "CSS Giriş",
+    "url": "http://sercaneraslan.com/css/giris",
+    "id": 170,
+    "parentId": "164",
+    "dateAddedLocal": "27.02.2022 16:30:56",
+    "dateAddedUTC": "2022-02-27T13:30:56.661Z"
+  },
+  {
+    "index": 22,
+    "title": "matematik",
+    "id": 171,
+    "parentId": "2",
+    "dateAddedLocal": "19.01.2022 00:02:28",
+    "dateAddedUTC": "2022-01-18T21:02:28.399Z"
+  },
+  {
+    "index": 0,
+    "title": "reading-list.pdf",
+    "url": "https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf",
+    "id": 172,
+    "parentId": "171",
+    "dateAddedLocal": "11.01.2022 18:17:45",
+    "dateAddedUTC": "2022-01-11T15:17:45.341Z"
+  },
+  {
+    "index": 1,
+    "title": "Nesin Köyleri | Popüler Matematik Yazıları",
+    "url": "https://nesinkoyleri.org/populer-matematik-yazilari/",
+    "id": 240,
+    "parentId": "171",
+    "dateAddedLocal": "22.01.2023 19:26:51",
+    "dateAddedUTC": "2023-01-22T16:26:51.356Z"
+  },
+  {
+    "index": 2,
+    "title": "Nesin Köyleri | Dökümanlar Listesi",
+    "url": "https://nesinkoyleri.org/e-kutuphane/dokumanlar-listesi/",
+    "id": 241,
+    "parentId": "171",
+    "dateAddedLocal": "22.01.2023 20:08:20",
+    "dateAddedUTC": "2023-01-22T17:08:20.243Z"
+  },
+  {
+    "index": 3,
+    "title": "Nesin Köyleri | Bağlantılar",
+    "url": "https://nesinkoyleri.org/baglantilar/",
+    "id": 242,
+    "parentId": "171",
+    "dateAddedLocal": "22.01.2023 20:08:25",
+    "dateAddedUTC": "2023-01-22T17:08:25.798Z"
+  },
+  {
+    "index": 4,
+    "title": "Nesin Köyleri | Sinavlar",
+    "url": "https://nesinkoyleri.org/sinavlar/",
+    "id": 243,
+    "parentId": "171",
+    "dateAddedLocal": "22.01.2023 20:08:53",
+    "dateAddedUTC": "2023-01-22T17:08:53.185Z"
+  },
+  {
+    "index": 5,
+    "title": "TÜBA Açık Ders Malzemeleri Portalı",
+    "url": "https://acikders.tuba.gov.tr/",
+    "id": 244,
+    "parentId": "171",
+    "dateAddedLocal": "22.01.2023 23:40:03",
+    "dateAddedUTC": "2023-01-22T20:40:03.184Z"
+  },
+  {
+    "index": 6,
+    "title": "Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-/README.md at main · ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-",
+    "url": "https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-/blob/main/README.md",
+    "id": 255,
+    "parentId": "171",
+    "dateAddedLocal": "31.01.2023 22:50:34",
+    "dateAddedUTC": "2023-01-31T19:50:34.059Z"
+  },
+  {
+    "index": 7,
+    "title": "3b1b/manim: Animation engine for explanatory math videos",
+    "url": "https://github.com/3b1b/manim",
+    "id": 266,
+    "parentId": "171",
+    "dateAddedLocal": "15.02.2023 18:45:21",
+    "dateAddedUTC": "2023-02-15T15:45:21.519Z"
+  },
+  {
+    "index": 8,
+    "title": "@DrDataStats | Dünya’nın Verisi",
+    "url": "https://www.drdatastats.com/",
+    "id": 317,
+    "parentId": "171",
+    "dateAddedLocal": "23.04.2023 20:36:38",
+    "dateAddedUTC": "2023-04-23T17:36:38.990Z"
+  },
+  {
+    "index": 23,
+    "title": "felsefe",
+    "id": 173,
+    "parentId": "2",
+    "dateAddedLocal": "19.01.2022 00:03:07",
+    "dateAddedUTC": "2022-01-18T21:03:07.628Z"
+  },
+  {
+    "index": 0,
+    "title": "Öncül Analitik Felsefe Dergisi",
+    "url": "https://onculanalitikfelsefe.com/",
+    "id": 174,
+    "parentId": "173",
+    "dateAddedLocal": "11.01.2022 18:42:01",
+    "dateAddedUTC": "2022-01-11T15:42:01.065Z"
+  },
+  {
+    "index": 24,
+    "title": "mimari",
+    "id": 175,
+    "parentId": "2",
+    "dateAddedLocal": "19.01.2022 13:47:46",
+    "dateAddedUTC": "2022-01-19T10:47:46.468Z"
+  },
+  {
+    "index": 0,
+    "title": "ArchDaily | Broadcasting Architecture Worldwide",
+    "url": "https://www.archdaily.com/?ad_name=small-logo",
+    "id": 176,
+    "parentId": "175",
+    "dateAddedLocal": "19.01.2022 13:47:29",
+    "dateAddedUTC": "2022-01-19T10:47:29.126Z"
+  },
+  {
+    "index": 1,
+    "title": "Architect Magazine: Architectural Design | Architect Online: The premier site for Architectural Industry News & Building Resources for Architects and Architecture Industry Professionals | Architect Magazine",
+    "url": "https://www.architectmagazine.com/",
+    "id": 177,
+    "parentId": "175",
+    "dateAddedLocal": "19.01.2022 13:48:08",
+    "dateAddedUTC": "2022-01-19T10:48:08.206Z"
+  },
+  {
+    "index": 2,
+    "title": "Dezeen | architecture and design magazine",
+    "url": "https://www.dezeen.com/",
+    "id": 178,
+    "parentId": "175",
+    "dateAddedLocal": "19.01.2022 13:48:30",
+    "dateAddedUTC": "2022-01-19T10:48:30.924Z"
+  },
+  {
+    "index": 3,
+    "title": "The Architectural Review | Online and print magazine about international design",
+    "url": "https://www.architectural-review.com/",
+    "id": 179,
+    "parentId": "175",
+    "dateAddedLocal": "19.01.2022 13:49:06",
+    "dateAddedUTC": "2022-01-19T10:49:06.350Z"
+  },
+  {
+    "index": 4,
+    "title": "Architectural Design, Interior & Home Decor News, Design Ideas | Architectural Digest Middle East",
+    "url": "https://www.admiddleeast.com/?international",
+    "id": 180,
+    "parentId": "175",
+    "dateAddedLocal": "19.01.2022 13:49:08",
+    "dateAddedUTC": "2022-01-19T10:49:08.983Z"
+  },
+  {
+    "index": 25,
+    "title": "python",
+    "id": 181,
+    "parentId": "2",
+    "dateAddedLocal": "19.01.2022 13:56:25",
+    "dateAddedUTC": "2022-01-19T10:56:25.994Z"
+  },
+  {
+    "index": 0,
+    "title": "itertools — Functions creating iterators for efficient looping — Python 3.10.2 documentation",
+    "url": "https://docs.python.org/3/library/itertools.html",
+    "id": 182,
+    "parentId": "181",
+    "dateAddedLocal": "19.01.2022 13:56:10",
+    "dateAddedUTC": "2022-01-19T10:56:10.642Z"
+  },
+  {
+    "index": 1,
+    "title": "bokeh/bokeh: Interactive Data Visualization in the browser, from Python",
+    "url": "https://github.com/bokeh/bokeh",
+    "id": 183,
+    "parentId": "181",
+    "dateAddedLocal": "19.01.2022 13:56:37",
+    "dateAddedUTC": "2022-01-19T10:56:37.082Z"
+  },
+  {
+    "index": 2,
+    "title": "Examples — scikit-learn 1.0.2 documentation",
+    "url": "https://scikit-learn.org/stable/auto_examples/index.html",
+    "id": 184,
+    "parentId": "181",
+    "dateAddedLocal": "19.01.2022 13:56:39",
+    "dateAddedUTC": "2022-01-19T10:56:39.827Z"
+  },
+  {
+    "index": 3,
+    "title": "Bottle: Python Web Framework — Bottle 0.13-dev documentation",
+    "url": "https://bottlepy.org/docs/dev/",
+    "id": 185,
+    "parentId": "181",
+    "dateAddedLocal": "19.01.2022 13:56:46",
+    "dateAddedUTC": "2022-01-19T10:56:46.276Z"
+  },
+  {
+    "index": 26,
+    "title": "araştırma konuları",
+    "id": 186,
+    "parentId": "2",
+    "dateAddedLocal": "19.01.2022 13:58:09",
+    "dateAddedUTC": "2022-01-19T10:58:09.278Z"
+  },
+  {
+    "index": 0,
+    "title": "Pilot dalga teorisi - Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/Pilot_dalga_teorisi",
+    "id": 187,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:57:56",
+    "dateAddedUTC": "2022-01-19T10:57:56.947Z"
+  },
+  {
+    "index": 1,
+    "title": "Sunular",
+    "url": "https://astrobilgi.org/dosyalar/sunular/",
+    "id": 188,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:58:12",
+    "dateAddedUTC": "2022-01-19T10:58:12.148Z"
+  },
+  {
+    "index": 2,
+    "title": "https://www.siamcostumes.com/cutters_guides/pdf/middle-egyptian-an-introduction-to-the-language-and-culture of-hieroglyphs-james-p-allen.pdf",
+    "url": "https://www.siamcostumes.com/cutters_guides/pdf/middle-egyptian-an-introduction-to-the-language-and-culture%20of-hieroglyphs-james-p-allen.pdf",
+    "id": 189,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:58:16",
+    "dateAddedUTC": "2022-01-19T10:58:16.418Z"
+  },
+  {
+    "index": 3,
+    "title": "The Feynman Lectures on Physics",
+    "url": "https://www.feynmanlectures.caltech.edu/",
+    "id": 190,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:58:19",
+    "dateAddedUTC": "2022-01-19T10:58:19.694Z"
+  },
+  {
+    "index": 4,
+    "title": "Astronomy Picture of the Day Archive 2015",
+    "url": "https://apod.nasa.gov/apod/archivepix.html",
+    "id": 191,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:59:27",
+    "dateAddedUTC": "2022-01-19T10:59:27.437Z"
+  },
+  {
+    "index": 5,
+    "title": "Arşiv | Rasyonalist Bilim",
+    "url": "https://rasyonalist.org/arsiv/",
+    "id": 192,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:59:30",
+    "dateAddedUTC": "2022-01-19T10:59:30.163Z"
+  },
+  {
+    "index": 6,
+    "title": "Turkish grammar - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Turkish_grammar#Suffixes",
+    "id": 193,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 13:59:59",
+    "dateAddedUTC": "2022-01-19T10:59:59.071Z"
+  },
+  {
+    "index": 7,
+    "title": "logic-of-turkish.dvi",
+    "url": "http://mat.msgsu.edu.tr/~dpierce/Language/Turkish/Logic/logic-of-turkish.pdf",
+    "id": 194,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 14:00:03",
+    "dateAddedUTC": "2022-01-19T11:00:03.607Z"
+  },
+  {
+    "index": 8,
+    "title": "The Turkish Suffix Dictionary",
+    "url": "https://www.dnathan.com/language/turkish/tsd/",
+    "id": 195,
+    "parentId": "186",
+    "dateAddedLocal": "30.09.2021 23:50:22",
+    "dateAddedUTC": "2021-09-30T20:50:22.715Z"
+  },
+  {
+    "index": 9,
+    "title": "Viva Lambda - Selected Readings on Computer Science, Ancient History and Philosophy | Zotero",
+    "url": "https://www.zotero.org/groups/2936452/viva_lambda_-_selected_readings_on_computer_science_ancient_history_and_philosophy/library",
+    "id": 196,
+    "parentId": "186",
+    "dateAddedLocal": "19.01.2022 14:00:49",
+    "dateAddedUTC": "2022-01-19T11:00:49.903Z"
+  },
+  {
+    "index": 27,
+    "title": "cheat sheet",
+    "id": 197,
+    "parentId": "2",
+    "dateAddedLocal": "02.01.2023 19:23:05",
+    "dateAddedUTC": "2023-01-02T16:23:05.863Z"
+  },
+  {
+    "index": 0,
+    "title": "Javascript Cheat Sheet | OverAPI.com",
+    "url": "https://overapi.com/javascript",
+    "id": 198,
+    "parentId": "197",
+    "dateAddedLocal": "02.01.2023 19:22:43",
+    "dateAddedUTC": "2023-01-02T16:22:43.433Z"
+  },
+  {
+    "index": 1,
+    "title": "Awesome Cheatsheets",
+    "url": "https://lecoupa.github.io/awesome-cheatsheets/",
+    "id": 199,
+    "parentId": "197",
+    "dateAddedLocal": "02.01.2023 19:23:08",
+    "dateAddedUTC": "2023-01-02T16:23:08.668Z"
+  },
+  {
+    "index": 2,
+    "title": "GitSheet",
+    "url": "https://gitsheet.wtf/",
+    "id": 200,
+    "parentId": "197",
+    "dateAddedLocal": "02.01.2023 19:24:10",
+    "dateAddedUTC": "2023-01-02T16:24:10.040Z"
+  },
+  {
+    "index": 3,
+    "title": "Modern JavaScript Cheatsheet | Modern JS Cheatsheet",
+    "url": "https://mbeaudru.github.io/modern-js-cheatsheet/",
+    "id": 201,
+    "parentId": "197",
+    "dateAddedLocal": "02.01.2023 19:25:02",
+    "dateAddedUTC": "2023-01-02T16:25:02.077Z"
+  },
+  {
+    "index": 4,
+    "title": "visualising data structures and algorithms through animation - VisuAlgo",
+    "url": "https://visualgo.net/en",
+    "id": 251,
+    "parentId": "197",
+    "dateAddedLocal": "30.01.2023 19:19:25",
+    "dateAddedUTC": "2023-01-30T16:19:25.200Z"
+  },
+  {
+    "index": 28,
+    "title": "sql",
+    "id": 247,
+    "parentId": "2",
+    "dateAddedLocal": "24.01.2023 16:33:31",
+    "dateAddedUTC": "2023-01-24T13:33:31.177Z"
+  },
+  {
+    "index": 0,
+    "title": "SQLBolt - Learn SQL - Introduction to SQL",
+    "url": "https://sqlbolt.com/",
+    "id": 246,
+    "parentId": "247",
+    "dateAddedLocal": "24.01.2023 16:33:11",
+    "dateAddedUTC": "2023-01-24T13:33:11.377Z"
+  },
+  {
+    "index": 1,
+    "title": "Machine Learning In Your Database Using SQL",
+    "url": "https://mindsdb.com/",
+    "id": 264,
+    "parentId": "247",
+    "dateAddedLocal": "12.02.2023 19:49:45",
+    "dateAddedUTC": "2023-02-12T16:49:45.174Z"
+  },
+  {
+    "index": 29,
+    "title": "fizik",
+    "id": 258,
+    "parentId": "2",
+    "dateAddedLocal": "06.02.2023 01:38:51",
+    "dateAddedUTC": "2023-02-05T22:38:51.839Z"
+  },
+  {
+    "index": 0,
+    "title": "Öğrenme Kaynakları",
+    "url": "https://sites.google.com/view/bumakale",
+    "id": 257,
+    "parentId": "258",
+    "dateAddedLocal": "06.02.2023 01:38:38",
+    "dateAddedUTC": "2023-02-05T22:38:38.674Z"
+  },
+  {
+    "index": 30,
+    "title": "mockup",
+    "id": 298,
+    "parentId": "2",
+    "dateAddedLocal": "02.03.2023 00:08:50",
+    "dateAddedUTC": "2023-03-01T21:08:50.202Z"
+  },
+  {
+    "index": 31,
+    "title": "Oy Pusulası Yapıcı",
+    "url": "https://akkermansia.github.io/pusula/",
+    "id": 319,
+    "parentId": "2",
+    "dateAddedLocal": "02.05.2023 14:02:28",
+    "dateAddedUTC": "2023-05-02T11:02:28.617Z"
+  },
+  {
+    "index": 0,
+    "title": "Öğrenince Unutmanızın Zor Olduğu 22 İnternet Sitesi",
+    "url": "https://www.webtekno.com/ise-yarar-internet-siteleri-h92922.html",
+    "id": 5,
+    "parentId": "3",
+    "dateAddedLocal": "16.05.2021 10:59:00",
+    "dateAddedUTC": "2021-05-16T07:59:00.305Z"
+  },
+  {
+    "index": 1,
+    "title": "Build a Command Line Application with Node.js | Okta Developer",
+    "url": "https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs",
+    "id": 6,
+    "parentId": "3",
+    "dateAddedLocal": "19.05.2021 23:48:14",
+    "dateAddedUTC": "2021-05-19T20:48:14.723Z"
+  },
+  {
+    "index": 2,
+    "title": "Build optimized websites quickly, focus on your content | Docusaurus",
+    "url": "https://docusaurus.io/",
+    "id": 7,
+    "parentId": "3",
+    "dateAddedLocal": "21.05.2021 23:15:19",
+    "dateAddedUTC": "2021-05-21T20:15:19.103Z"
+  },
+  {
+    "index": 3,
+    "title": "15 Dakikada Ethereum Ağı Oluşturabilmek | by Serkan Dogantekin | Medium",
+    "url": "https://medium.com/@sdogantekin/15-dakikada-ethereum-a%C4%9F%C4%B1-olu%C5%9Fturabilmek-ce04b4c40e60",
+    "id": 8,
+    "parentId": "3",
+    "dateAddedLocal": "23.05.2021 17:03:04",
+    "dateAddedUTC": "2021-05-23T14:03:04.251Z"
+  },
+  {
+    "index": 4,
+    "title": "Paper.js",
+    "url": "http://paperjs.org/",
+    "id": 9,
+    "parentId": "3",
+    "dateAddedLocal": "24.05.2021 11:55:28",
+    "dateAddedUTC": "2021-05-24T08:55:28.214Z"
+  },
+  {
+    "index": 5,
+    "title": "Sketch - Canvas Draw Tool",
+    "url": "https://codepen.io/morkett/pen/MvgWdL",
+    "id": 10,
+    "parentId": "3",
+    "dateAddedLocal": "24.05.2021 12:28:01",
+    "dateAddedUTC": "2021-05-24T09:28:01.949Z"
+  },
+  {
+    "index": 6,
+    "title": "umutphp/clean-code-javascript-tr: JavaScript için uyarlanmış Temiz Kod kavramları",
+    "url": "https://github.com/umutphp/clean-code-javascript-tr",
+    "id": 11,
+    "parentId": "3",
+    "dateAddedLocal": "24.05.2021 23:57:14",
+    "dateAddedUTC": "2021-05-24T20:57:14.378Z"
+  },
+  {
+    "index": 7,
+    "title": "erdinccurebal/lodashjs_tr-document: Lodash paketinin türkçe hali.",
+    "url": "https://github.com/erdinccurebal/lodashjs_tr-document",
+    "id": 12,
+    "parentId": "3",
+    "dateAddedLocal": "25.05.2021 00:53:57",
+    "dateAddedUTC": "2021-05-24T21:53:57.165Z"
+  },
+  {
+    "index": 8,
+    "title": "Yararlı Sayfalar — ard-e alpha belgelendirme çalışması",
+    "url": "https://ard-e.github.io/",
+    "id": 13,
+    "parentId": "3",
+    "dateAddedLocal": "25.05.2021 00:57:10",
+    "dateAddedUTC": "2021-05-24T21:57:10.598Z"
+  },
+  {
+    "index": 9,
+    "title": "HOW TO LEARN PERSPECTIVE – DAILY ARCHITECTURE",
+    "url": "https://www.dailyarchitecture.net/amp/how-to-learn-perspective/",
+    "id": 14,
+    "parentId": "3",
+    "dateAddedLocal": "14.07.2021 12:42:22",
+    "dateAddedUTC": "2021-07-14T09:42:22.137Z"
+  },
+  {
+    "index": 10,
+    "title": "All messages - LibreCAD - Zulip",
+    "url": "https://librecad.zulipchat.com/#all_messages",
+    "id": 15,
+    "parentId": "3",
+    "dateAddedLocal": "16.07.2021 00:34:52",
+    "dateAddedUTC": "2021-07-15T21:34:52.810Z"
+  },
+  {
+    "index": 11,
+    "title": "Axonometric projection - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Axonometric_projection#:~:text=The%20three%20types%20of%20axonometric,view%20deviates%20from%20the%20orthogonal.",
+    "id": 16,
+    "parentId": "3",
+    "dateAddedLocal": "16.07.2021 00:54:03",
+    "dateAddedUTC": "2021-07-15T21:54:03.800Z"
+  },
+  {
+    "index": 12,
+    "title": "HUAWEI DevEco Studio - HUAWEI HarmonyOS APP",
+    "url": "https://developer.harmonyos.com/en/develop/deveco-studio#download_release",
+    "id": 17,
+    "parentId": "3",
+    "dateAddedLocal": "17.07.2021 02:16:03",
+    "dateAddedUTC": "2021-07-16T23:16:03.726Z"
+  },
+  {
+    "index": 13,
+    "title": "Skateboard Video Platform",
+    "url": "https://codepen.io/TurkAysenur/pen/LYRKpWe?editors=1010",
+    "id": 18,
+    "parentId": "3",
+    "dateAddedLocal": "18.07.2021 13:26:17",
+    "dateAddedUTC": "2021-07-18T10:26:17.484Z"
+  },
+  {
+    "index": 14,
+    "title": "Book Store UI",
+    "url": "https://codepen.io/TurkAysenur/pen/JjGKKrP?editors=1000",
+    "id": 19,
+    "parentId": "3",
+    "dateAddedLocal": "18.07.2021 13:28:10",
+    "dateAddedUTC": "2021-07-18T10:28:10.424Z"
+  },
+  {
+    "index": 15,
+    "title": "CSS Framework- Documentation",
+    "url": "https://codepen.io/TurkAysenur/pen/OKQoXN",
+    "id": 20,
+    "parentId": "3",
+    "dateAddedLocal": "18.07.2021 13:32:00",
+    "dateAddedUTC": "2021-07-18T10:32:00.735Z"
+  },
+  {
+    "index": 16,
+    "title": "Tangle: a JavaScript library for reactive documents",
+    "url": "http://worrydream.com/Tangle/",
+    "id": 21,
+    "parentId": "3",
+    "dateAddedLocal": "18.07.2021 17:36:50",
+    "dateAddedUTC": "2021-07-18T14:36:50.926Z"
+  },
+  {
+    "index": 17,
+    "title": "Scrolling Full Page Sections And Sliders",
+    "url": "https://html5-templates.com/preview/fullpage_js.html",
+    "id": 22,
+    "parentId": "3",
+    "dateAddedLocal": "29.07.2021 14:59:18",
+    "dateAddedUTC": "2021-07-29T11:59:18.330Z"
+  },
+  {
+    "index": 18,
+    "title": "Colors - House of van Schneider",
+    "url": "https://vanschneider.com/colors",
+    "id": 23,
+    "parentId": "3",
+    "dateAddedLocal": "14.08.2021 11:05:26",
+    "dateAddedUTC": "2021-08-14T08:05:26.620Z"
+  },
+  {
+    "index": 19,
+    "title": "RSS Box",
+    "url": "https://rssbox.herokuapp.com/",
+    "id": 24,
+    "parentId": "3",
+    "dateAddedLocal": "14.08.2021 11:16:36",
+    "dateAddedUTC": "2021-08-14T08:16:36.157Z"
+  },
+  {
+    "index": 20,
+    "title": "Chocolate Yokan | Let's Cook Japanese | NHK WORLD RADIO JAPAN",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/radio/cooking/20170210.html",
+    "id": 27,
+    "parentId": "3",
+    "dateAddedLocal": "15.11.2021 23:41:35",
+    "dateAddedUTC": "2021-11-15T20:41:35.306Z"
+  },
+  {
+    "index": 21,
+    "title": "A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript",
+    "url": "https://www.ibrahima-ndaw.com/blog/a-practical-guide-to-typescript/#what-is-typescript",
+    "id": 312,
+    "parentId": "3",
+    "dateAddedLocal": "22.03.2023 05:09:48",
+    "dateAddedUTC": "2023-03-22T02:09:48.763Z"
+  }
+]
