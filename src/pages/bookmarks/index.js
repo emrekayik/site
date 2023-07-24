@@ -28,7 +28,7 @@ function Bookmarks() {
             }}
             className="flex flex-col bg-gray-50 dark:bg-gray-800 p-4 rounded-lg shadow-xl"
           >
-            <Link href={bookmark.link}>
+            <Link href={bookmark.link} >
               <h2 className="text-2xl font-bold tracking-tight ">
                 {bookmark.title}
               </h2>
@@ -52,11 +52,8 @@ function Bookmarks() {
               <div className="flex items-center space-x-2">
                 <span>&#x2022;</span>
                 <p className="text-gray-700 dark:text-gray-400">
-                  {bookmark.date} - {
-                    moment(bookmark.date, 'DD.MM.YYYY')
-                    .endOf('day')
-                    .fromNow()
-                  }
+                  {bookmark.date} -{' '}
+                  {moment(bookmark.date, 'DD.MM.YYYY').endOf('day').fromNow()}
                 </p>
               </div>
             </div>

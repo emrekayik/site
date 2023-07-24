@@ -14,13 +14,10 @@ function Header() {
   const { locale, locales, defaultLocale } = router;
   const t = locale === 'en' ? en : tr;
 
-
   const changeLang = (e) => {
     const locale = e.target.value;
-    router.push(router.pathname, router.asPath, { locale }).then(r => {});
-
+    router.push(router.pathname, router.asPath, { locale }).then((r) => {});
   };
-
 
   const links = [
     {
