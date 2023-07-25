@@ -8,9 +8,9 @@ export default [
   },
   {
     id: 2,
-    title: 'The React Cheatsheet for 2022',
-    link: 'https://www.freecodecamp.org/news/the-react-cheatsheet/',
-    tags: ['react', 'javascript', 'frontend'],
+    title: 'Appshots : Browse Apps Library',
+    link: 'https://appshots.design',
+    tags: ['ui-ux', 'design'],
     date: '20.07.2023',
   },
 ];
