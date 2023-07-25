@@ -11,6 +11,13 @@ export default [
     title: 'Appshots : Browse Apps Library',
     link: 'https://appshots.design',
     tags: ['ui-ux', 'design'],
-    date: '20.07.2023',
+    date: '25.07.2023',
   },
+  {
+    id: 3,
+    title: 'Land Book - website design inspiration gallery',
+    link: 'https://land-book.com',
+    tags: ['ui-ux', 'design'],
+    date: '25.07.2023',
+  }
 ];
