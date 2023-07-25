@@ -1,11 +1,15 @@
 import { motion } from 'framer-motion';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import moment from 'moment';
+import moment, { locale } from "moment";
 
 import en from '@/locales/en';
 import tr from '@/locales/tr';
 import bookmarks from '@/locales/bookmarks';
+export const metadata = {
+  title: locale === 'en' ? 'Emre Kayık - Bookmarks' : 'Emre Kayık - Yer İmleri',
+  description: '',
+};
 function Bookmarks() {
   // locale
   const router = useRouter();
@@ -19,7 +23,7 @@ function Bookmarks() {
       <>
         {bookmarks.map((bookmark, index) => (
           <motion.div
-            key={index}
+            key={bookmark.id}
             whileHover={{
               scale: [1, 1.01],
               transition: {

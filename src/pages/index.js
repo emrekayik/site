@@ -8,6 +8,10 @@ import tr from '@/locales/tr';
 import { MdiGithub, MdiLinkedin, MdiInstagram, MdiMedium } from '@/icons';
 import Link from 'next/link';
 
+export const metadata = {
+  title: 'Emre Kayık - kişisel web adresim',
+  description: 'Merhaba Ben Emre, burası benim kişisel web adresim.',
+}
 export default function Home() {
   const router = useRouter();
   const { locale } = router;

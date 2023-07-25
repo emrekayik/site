@@ -3,6 +3,11 @@ import Link from 'next/link';
 import en from '@/locales/en';
 import tr from '@/locales/tr';
 
+export const metadata = {
+  title: 'Emre Kayık - 404',
+  description: '',
+}
+
 export default function Custom404() {
   // locale
   const router = useRouter();
