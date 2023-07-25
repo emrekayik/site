@@ -45,9 +45,9 @@ function Bookmarks() {
                 {bookmark.tags.map((tag) => (
                   <Link
                     href={`/bookmarks/${tag}`}
-                    className="bg-gray-700 dark:bg-gray-400 rounded-2xl"
+                    className="bg-gray-700 dark:bg-gray-400 p-1.5 rounded-2xl"
                   >
-                    <p className="p-1.5 text-gray-400 dark:text-gray-700">
+                    <p className="font-bold dark:text-gray-700 text-gray-50">
                       {tag}
                     </p>
                   </Link>
@@ -66,7 +66,7 @@ function Bookmarks() {
       </>
     );
   };
-  const BookmarkList = ({ bookmarks }) => {
+  const BookmarkTagList = ({ bookmarks }) => {
     const allTags = bookmarks.reduce((tags, bookmark) => {
       bookmark.tags.forEach((tag) => {
         tags.add(tag);
@@ -94,7 +94,7 @@ function Bookmarks() {
     <div className="site-container">
       <h1 className="text-4xl font-bold">{t.bookmark.title}</h1>
       <p className="mt-2 text-gray-600 dark:text-gray-400">{t.bookmark.desc}</p>
-      <BookmarkList bookmarks={bookmarks} />
+      <BookmarkTagList bookmarks={bookmarks} />
       <hr className="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" />
       <div className="mt-8 space-y-4 divide-y-[1px] divide-dashed divide-slate-400/[.24]">
         <ListBookmarks />
