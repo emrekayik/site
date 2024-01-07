@@ -47,6 +47,11 @@ function Header() {
                     duration: 0.2,
                   },
                 }}
+                className={`${
+                  router.pathname === link.href
+                    ? 'font-bold text-gray-900 dark:text-gray-100'
+                    : 'font-normal text-gray-700 dark:text-gray-300'
+                }`}
               >
                 {link.name}
               </motion.h1>
